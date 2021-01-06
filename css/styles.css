@@ -9,7 +9,20 @@
     float: left;
   }
 
+  .image {
+    width: 50%;
+  }
+
   h1 {
     margin-left: 25%;
     margin-right: 25%;
+  }
+
+  .column {
+    float: right;
+    width: 300px;
+  }
+
+  body {
+    background-color: rosybrown;
   }
