@@ -1,0 +1,15 @@
+.rightbanner {
+  width: 30%;
+  float: right;
+  background-color:rosybrown;
+}
+
+  .band_image {
+    width: 40%;
+    float: left;
+  }
+
+  h1 {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
