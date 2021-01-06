@@ -4,14 +4,14 @@
   background-color:rosybrown;
 }
 
-  .band_image {
+  .bandimage {
     width: 40%;
     float: left;
+    border: 10px solid red;
+    padding: 4px;
+    box-sizing: border-box;
   }
 
-  .image {
-    width: 50%;
-  }
 
   h1 {
     margin-left: 25%;
@@ -23,6 +23,8 @@
     width: 300px;
   }
 
-  body {
-    background-color: rosybrown;
-  }
+    body {
+      background-color: burlywood;
+    }
+
+  

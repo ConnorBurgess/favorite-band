@@ -12,13 +12,13 @@
 
 ## Description
 
-_This project demonstrates use of floats to position columns and sidebars using a favorite band website_
+_This project demonstrates use of floats to position columns and sidebars using a favorite band website and interior decorator website_
 
 
 ## Setup/Installation Requirements
 
 * _Clone repository from [here](https://github.com/ConnorBurgess/favorite-band.git)_
-* _Open index.html_
+* _Open index.html or interior-decorator.html_
 
 
 ## Known Bugs
