@@ -18,13 +18,18 @@
     margin-right: 25%;
   }
 
-  .column {
-    float: right;
-    width: 300px;
-  }
-
     body {
       background-color: burlywood;
     }
 
-  
+  .column1  {
+    background-color: green;
+  }
+
+  .column2  {
+    background-color: orange;
+  }
+
+  .column3  {
+    background-color: blue;
+  }
